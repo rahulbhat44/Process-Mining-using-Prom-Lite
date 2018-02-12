@@ -1,1 +1,1 @@
-# Process-Mining-using-Prom-Lite
+# Process-Analysis-using-Prom-Lite
